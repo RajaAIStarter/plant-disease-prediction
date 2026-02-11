@@ -55,8 +55,7 @@ cd plant-disease-prediction
 
 The trained model weights (97% validation accuracy) are not included in this repository due to file size limitations.
 
-**Download from Google Drive:** [plant_disease_classifier.h5](https://drive.google.com/file/d/your-file-id/view?usp=sharing)  
-*(Replace with actual download link)*
+**Download from Google Drive:** [plant_disease_classifier.h5](https://drive.google.com/file/d/11R34RBawjQhqi0i9PZEmT8c7zPjFJqPp/view?usp=drive_link)
 
 After downloading, place the file in the `weights/` folder:
 
@@ -153,7 +152,7 @@ Derived from the original PlantVillage dataset with 3 classes focused on common 
 
 Try the deployed application on Hugging Face Spaces:
 
-🔗 [https://huggingface.co/spaces/YOUR_USERNAME/plant-disease-prediction](https://huggingface.co/spaces/YOUR_USERNAME/plant-disease-prediction)
+🔗 [https://huggingface.co/spaces/rajavemula/plant-disease-prediction](https://huggingface.co/spaces/rajavemula/plant-disease-prediction)
 
 *(Replace with your actual HF Space URL after deployment)*
 

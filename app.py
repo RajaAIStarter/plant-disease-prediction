@@ -55,7 +55,7 @@ st.markdown('<div class="main-header"><h1 style="margin:0;">🌿 AgriLeaf Analyt
 # METRICS
 c1, c2, c3, c4 = st.columns(4)
 c1.markdown('<div class="metric-box"><h3 style="color:#667eea; margin:0;">CNN</h3><p style="margin:0; color:#6b7280; font-size:0.9rem;">Architecture</p></div>', unsafe_allow_html=True)
-c2.markdown('<div class="metric-box"><h3 style="color:#667eea; margin:0;">97%</h3><p style="margin:0; color:#6b7280; font-size:0.9rem;">Accuracy</p></div>', unsafe_allow_html=True)
+c2.markdown('<div class="metric-box"><h3 style="color:#667eea; margin:0;">93%</h3><p style="margin:0; color:#6b7280; font-size:0.9rem;">Accuracy</p></div>', unsafe_allow_html=True)
 c3.markdown('<div class="metric-box"><h3 style="color:#667eea; margin:0;">3</h3><p style="margin:0; color:#6b7280; font-size:0.9rem;">Classes</p></div>', unsafe_allow_html=True)
 c4.markdown('<div class="metric-box"><h3 style="color:#667eea; margin:0;">256²</h3><p style="margin:0; color:#6b7280; font-size:0.9rem;">Input Size</p></div>', unsafe_allow_html=True)
 
